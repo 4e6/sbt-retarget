@@ -4,7 +4,7 @@ name := "sbt-retarget"
 
 organization := "me.4e6"
 
-version := "0.1"
+version := "0.1.0-SNAPSHOT"
 
 licenses := Seq("MIT License" -> url("http://opensource.org/licenses/MIT"))
 
