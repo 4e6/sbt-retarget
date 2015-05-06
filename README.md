@@ -1,5 +1,7 @@
 # sbt-retarget
 
+[![Build Status](https://travis-ci.org/4e6/sbt-retarget.svg?branch=master)](https://travis-ci.org/4e6/sbt-retarget)
+
 Moves sbt `target` directory to different location.
 
 ## Usage
